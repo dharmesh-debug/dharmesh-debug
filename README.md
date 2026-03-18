@@ -1,5 +1,3 @@
-
-
 # 🧮 Smart Calculator (Java)
 
 A **Smart Calculator** built using Java that performs basic arithmetic operations with a clean and user-friendly approach. This project is ideal for beginners learning Java programming and object-oriented concepts.
